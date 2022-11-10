@@ -1,0 +1,35 @@
+* [33mcommit e653b80342fed2df8ab34e508495d1f4d2c5109d[m[33m ([m[1;32mdb[m[33m)[m
+[31m|[m Author: Your Name <you@example.com>
+[31m|[m Date:   Thu Nov 10 10:48:20 2022 +0900
+[31m|[m 
+[31m|[m     verd0.6
+[31m|[m 
+* [33mcommit b9b2f54b98968a4739005bf72b8f4625148d290e[m
+[31m|[m Author: Your Name <you@example.com>
+[31m|[m Date:   Thu Nov 10 10:46:41 2022 +0900
+[31m|[m 
+[31m|[m     verd0.1
+[31m|[m   
+[31m|[m * [33mcommit 01566eaff66e341a680a2acf8e02fef20bdd8c6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[31m/[m  Author: Your Name <you@example.com>
+[31m|[m   Date:   Thu Nov 10 10:47:55 2022 +0900
+[31m|[m   
+[31m|[m       verd0.5
+[31m|[m 
+* [33mcommit 60cb291b564735a93965f0fd9787ce71972c5797[m[33m ([m[1;32mcb[m[33m)[m
+[32m|[m Author: Your Name <you@example.com>
+[32m|[m Date:   Thu Nov 10 10:39:03 2022 +0900
+[32m|[m 
+[32m|[m     ver0.3
+[32m|[m 
+* [33mcommit 3e31efbcd867e236fc065282fd2a5784bda21ddd[m
+[32m|[m Author: Your Name <you@example.com>
+[32m|[m Date:   Thu Nov 10 10:38:52 2022 +0900
+[32m|[m 
+[32m|[m     ver0.2
+[32m|[m 
+* [33mcommit 2c47b465b7d5b8e8511e867013517c744b1b9328[m
+  Author: Your Name <you@example.com>
+  Date:   Thu Nov 10 10:38:40 2022 +0900
+  
+      ver0.1
